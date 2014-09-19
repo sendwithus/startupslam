@@ -1,0 +1,19 @@
+{
+  "name": "startup_slam",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "sendwithus",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.8.2",
+    "express": "^4.9.3",
+    "mongoose": "^3.8.16",
+    "serve-static": "^1.6.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
