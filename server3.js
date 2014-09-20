@@ -1,12 +1,12 @@
 var express = require('express');
-var serveStatic = require('serve-static');
 var bodyParser = require('body-parser');
+var serveStatic = require('serve-static');
 var mongoose = require('mongoose');
 
 mongoose.connect(process.env.MONGOHQ_URL || 'mongodb://localhost/startupslam');
 
 // user model
-var User = mongoose.model('User', { email: String });
+var Signup = mongoose.model('Signup', { email: String });
 
 var app = express();
 
@@ -20,10 +20,10 @@ app.post('/submit', function (req, res) {
     var email = req.body.email;
 
     // create a new User object
-    var user = new User({ email: email });
+    var signup = new Signup({ email: email });
 
     // Save the user
-    user.save(function (err) {
+    signup.save(function (err) {
         if (err) { console.error('Failed:', err); }
         else { console.log('New User!', email); }
     });
