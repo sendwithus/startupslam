@@ -3,7 +3,8 @@ var bodyParser = require('body-parser');
 var serveStatic = require('serve-static');
 var mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGOHQ_URL || 'mongodb://localhost/startupslam');
+// mongoose.connect(process.env.MONGOHQ_URL || 'mongodb://localhost/startupslam');
+mongoose.connect('mongodb://localhost/startupslam');
 
 // user model
 var Signup = mongoose.model('Signup', { email: String });
@@ -23,10 +24,7 @@ app.post('/submit', function (req, res) {
     var signup = new Signup({ email: email });
 
     // Save the user
-    signup.save(function (err) {
-        if (err) { console.error('Failed:', err); }
-        else { console.log('New User!', email); }
-    });
+    signup.save();
 
     // respond to the request
     res.send('success');

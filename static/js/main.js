@@ -8,5 +8,5 @@ $('.subscribe-form').on('submit', function(e) {
         alert('Thank You!');
     });
 
-    e.preventDefault();
+    return false;
 });
