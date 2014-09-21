@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "start": "node 4_theme/server.js"
+    "start": "node server.js"
   },
   "author": "sendwithus",
   "license": "ISC",
