@@ -4,7 +4,6 @@ var serveStatic = require('serve-static');
 var mongoose = require('mongoose');
 
 mongoose.connect(process.env.MONGOHQ_URL || 'mongodb://localhost/startupslam');
-// mongoose.connect('mongodb://localhost/startupslam');
 
 // user model
 var Signup = mongoose.model('Signup', { email: String });
