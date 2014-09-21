@@ -30,3 +30,10 @@ Questions
 
 If you have any questions about what you see here, feel free to send an email to
 greg@sendwithus.com or willem@sendwithus.com and we'll get back to you as soon as possible.
+
+
+Note on Heroku
+--------------
+
+The `package.json` in the root of this project is for Heroku. This tells Heroku what packages
+we need, and which file to run when it's pushed to the Heroku servers.
