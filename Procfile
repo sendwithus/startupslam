@@ -1,1 +1,1 @@
-web: gunicorn -c gunicorn.py app.application --log-level info
+web: gunicorn -c gunicorn.py app --log-level info
