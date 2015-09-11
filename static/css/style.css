@@ -75,7 +75,7 @@ video {
 }
 
 .btn-register{
-      float: left;
+    float: left;
     background: #ba1010;
     border: none;
     padding: 20px 50px;
@@ -94,6 +94,10 @@ video {
     padding: 20px 70px;
     color: #520901;
     font-weight: 800;
+}
+
+a button.btn-register{
+    color: #FFFFFF;
 }
 
 .row.sub{
