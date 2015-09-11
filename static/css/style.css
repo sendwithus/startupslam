@@ -3,11 +3,15 @@
 body{
     font-family: 'open sans', arial, helvetica, sans-serif;
     background: #1B1B1B;
-        
+
     margin: 0;
     padding: 0;
     width: 100%;
     color: white;
+}
+
+a{
+  color: #1E90FF;
 }
 
 .container{
@@ -45,19 +49,19 @@ video {
     margin: 0;
     padding: 0;
     left: 0;
-    
+
 }
 
 .logo{
     float: left;
     margin-top: 250px;
     max-width: 100%;
-    -webkit-animation-delay: 0.5s; 
+    -webkit-animation-delay: 0.5s;
     animation-delay: 0.5s;
 }
 
 .row{
-   clear: both;   
+   clear: both;
 }
 
 .date{
@@ -70,7 +74,7 @@ video {
     letter-spacing: 2px;
     margin-left: 12px;
     max-width: 90%;
-    -webkit-animation-delay: 2s; 
+    -webkit-animation-delay: 2s;
     animation-delay: 2s;
 }
 
@@ -84,8 +88,8 @@ video {
     margin-top: 30px;
     font-weight: light;
     letter-spacing: 2px;
-    margin-left: 12px; 
-    -webkit-animation-delay: 2.25s; 
+    margin-left: 12px;
+    -webkit-animation-delay: 2.25s;
     animation-delay: 2.25s;
     transition: all 0.25s ease-in-out;
 }
@@ -102,22 +106,22 @@ video {
     margin-left: 0px;
     margin-top: 10px;
     letter-spacing: 1px;
-    -webkit-animation-delay: 2.5s; 
+    -webkit-animation-delay: 2.5s;
     animation-delay: 2.5s;
 }
 
 .secondary{
-    color: #ba1010;   
+    color: #DC2D2D;
 }
 
 .block .col-sm-8{
-    padding-left: 60px; 
+    padding-left: 60px;
     padding-bottom: 70px;
 }
 
 h3{
-    border: 1px solid #ba1010;
-    color: #ba1010;
+    border: 1px solid #DC2D2D;
+    color: #DC2D2D;
     padding: 20px 30px;
     font-size: 24px;
     font-weight: 400;
@@ -164,7 +168,7 @@ p{
 
 p .pull{
     font-size: 24px;
-    line-height: 40px;   
+    line-height: 40px;
 }
 
 .logo-large, .logo-small{
@@ -178,7 +182,7 @@ p .pull{
 }
 
 .logo-large:hover, .logo-small:hover{
-    opacity: 1;   
+    opacity: 1;
 }
 
 .logo-large{
@@ -204,13 +208,13 @@ h4{
 }
 
 .row.speakers{
-     border-left: 1px #ba1010 solid;
+     border-left: 1px #DC2D2D solid;
     padding: 0 0 0 20px;
     margin: 20px;
 }
 
 .row.speakers:before, .row.speakers:after{
-    border-top: 1px #ba1010 solid;
+    border-top: 1px #DC2D2D solid;
     width: 25px;
     left: 0px;
     position: relative;
@@ -220,7 +224,7 @@ h4{
 .section{
     padding: 0;
     margin: 0;
-    float: left; 
+    float: left;
     margin-bottom: 10px;
     letter-spacing: 1px;
     margin-top: 40px;
@@ -241,7 +245,7 @@ h5{
 }
 
 h6{
-  color: #ba1010;
+  color: #DC2D2D;
     font-size: 16px;
 }
 
@@ -252,7 +256,7 @@ h6{
 }
 
 .schedule p{
-    margin-top:7px   
+    margin-top:7px
 }
 
 .map{
@@ -275,72 +279,72 @@ footer{
 }
 
 footer a{
-    color: #444;   
+    color: #444;
 }
 
 footer a:hover{
-    color: #666;   
+    color: #666;
 }
 
 
 
 @media(max-width:767px){
 	.logo{
-        margin-top: 150px;   
+        margin-top: 150px;
     }
-    
+
     .date{
         width: 100%;
         text-align: center;
     }
-    
+
     .btn-register{
         margin-top: 10px;
         width: 90%;
     }
     .banner{
-        height: 600px;   
+        height: 600px;
     }
-    
+
     .row.block{
-        padding: 0 20px;   
+        padding: 0 20px;
     }
-    
+
     .block .col-sm-8{
         padding: 0 15px 70px 15px
     }
-    
+
     P{
-        font-size: 14px;   
+        font-size: 14px;
     }
-    
+
     h3{
-        width: auto; 
+        width: auto;
         float: left;
         display: block;
         font-size: 18px;
     }
-    
+
     video{
         display: none;
     }
-    
+
     .schedule h4{
-        font-size: 24px;   
+        font-size: 24px;
     }
-    
+
     .map{
         height: 300px;
     }
 }
 @media(min-width:768px){
 	.schedule h4{
-        font-size: 30px;   
+        font-size: 30px;
     }
 }
 @media(min-width:992px){
-   
+
 }
 @media(min-width:1200px){
-	
+
 }
