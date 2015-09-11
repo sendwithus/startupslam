@@ -129,6 +129,21 @@ h3{
     clear: both;
 }
 
+h3.gold{
+    border: 1px solid #FFD700;
+    color: #FFD700;
+}
+
+h3.silver{
+    border: 1px solid #C0C0C0;
+    color: #C0C0C0;
+}
+
+h3.startup{
+    border: 1px solid #1E90FF;
+    color: #1E90FF;
+}
+
 .row.block{
     margin-top: 50px;
 
