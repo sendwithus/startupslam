@@ -11,4 +11,6 @@
 ### Getting Started
 * Fork and clone our repo: https://github.com/TinyMobGames/smashteroids
 * Load up the project in Unity and hit the play button
-** The controls are WASD to move the ship and spacebar to fire the weapon
+  * Controls:
+    * WASD to move the ship 
+    * Space to fire the main weapon
