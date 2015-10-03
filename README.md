@@ -69,9 +69,9 @@ Workshops
 
 ### 10:30
 
-[Sendwithus](https://github.com/sendwithus/startupslam/blob/master/workshops/sendwithus/README.md)
+[Sendwithus](https://github.com/sendwithus/workshop-go)
 
-[OneNet Marketing](https://github.com/sendwithus/startupslam/blob/master/workshops/onenet/README.md)
+OneNet Marketing
 
 ### 01:00
 
@@ -81,7 +81,7 @@ Workshops
 
 ### 03:00
 
-[Flytographer](https://github.com/sendwithus/startupslam/blob/master/workshops/flytographer/README.md)
+Flytographer
 
 [TinyMob](https://github.com/sendwithus/startupslam/blob/master/workshops/tinymob/README.md)
 
