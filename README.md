@@ -4,17 +4,24 @@ Welcome to Startup Slam
 
 
 
-What
+What's Going On?
 ----
-Startup Slam is a one day event filled with workshops meant to give you a glimpse into the world of active startups, the real-world challenges they face, and the technologies they use to conquer them. Each session will focus on a specific, practical skill or strategy to help prepare you for the startup world.
+Startup Slam is a one day event filled with workshops meant to give you a glimpse into the world of active startups, the real-world challenges they face, and the technologies they use to conquer them. Each session will focus on a specific, practical skill or strategy to help prepare you for working at – and eventually running – a startup.
 
 
-Why
+Why Are We Doing This?
 ----
-The technical skills you learn in school are useful, but figuring out when and how to apply them is something else entirely. We've brought together industry experts to tlak about their experiences doing exactly that, in hopes of better preparing you for life in the startup world.
+The skills you learn in school are useful, but figuring out when and how to apply them is something else entirely. We've brought together industry experts to talk about their experiences doing exactly that, in hopes of better preparing you for life in the startup world.
 
 
-Who
+Stuff You'll Need
+-----------------
+**Coffee Mug!** In an effort to reduce the environmental impact of the slam, we're enforcing a Bring Your Own Mug policy for coffee. 
+
+A **GitHub account** will be necessary for most of the coding workshops, and you're most of the way there. If there's a big green "Sign up" button at the top of this page, just click on it to get going; if there isn't, then you're good.
+
+
+Sponsors!
 ----
 [Sendwithus](http://www.sendwithus.com)
 
@@ -25,15 +32,6 @@ Who
 [Checkfront](https://www.checkfront.com/)
 
 [Viatec](https://www.viatec.ca/cpages/home)
-
-Stuff You'll Need
------------------
-**Coffee Mug!** In an effort to reduce the environmental impact of the slam, we're enforcing a Bring Your Own Mug policy for coffee. 
-
-A **GitHub account** will be necessary for most of the coding workshops, and you're most of the way there. If there's a big green "Sign up" button at the top of this page, just click on it to get going; if there isn't, then you're good.
-
-
-
 
 Code Review Corner
 ------------------
