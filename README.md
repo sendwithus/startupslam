@@ -2,6 +2,8 @@ Welcome to Startup Slam
 =======================
 [startupslam.io](http://www.startupslam.io)
 
+
+
 What
 ----
 Startup Slam is a one day event filled with workshops meant to give you a glimpse into the world of active startups, the real-world challenges they face, and the technologies they use to conquer them. Each session will focus on a specific, practical skill or strategy to help prepare you for the startup world.
@@ -15,9 +17,13 @@ The technical skills you learn in school are useful, but figuring out when and h
 Who
 ----
 [Sendwithus](http://www.sendwithus.com)
+
 [UVic](https://www.uvic.ca/)
+
 [MetaLab](http://metalab.co/)
+
 [Checkfront](https://www.checkfront.com/)
+
 [Viatec](https://www.viatec.ca/cpages/home)
 
 Stuff You'll Need
