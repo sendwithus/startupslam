@@ -12,5 +12,5 @@
 
 ### Get Started
 
-* Fork and clone our repo (TBD)
+* Fork and clone [our repo](https://github.com/metalabdesign/startupslam-workshop)
 * Open terminal, `> npm install && npm run dev`
