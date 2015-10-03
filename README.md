@@ -51,14 +51,14 @@ Schedule
 
 | Time   |  ECS 125                           | ECS 116                  |
 | ------ |:----------------------------------:|:------------------------:|
-| 11:00  | Wake Me Up, Before You Golang?     | Customer Acquisition 101 |
+| 11:00  | [Wake Me Up, Before You Golang?](https://github.com/sendwithus/workshop-go)     | Customer Acquisition 101 |
 | 12:30  | Lunch                              | Lunch                    |
-| 01:00  | Zero to Slack in 30 Minutes        | Pretio Interactive       |
+| 01:00  | [Zero to Slack in 30 Minutes](https://github.com/sendwithus/startupslam/blob/master/workshops/metalab/README.md)        | [Git: Workflows, Teams, and Integrations](https://github.com/sendwithus/startupslam/blob/master/workshops/pretio/README.md)       |
 | 02:30  | Break                              | Break                    |
-| 03:00  | Techniques for Prototyping Game AI | Customer Experience as a Secret Weapon |
+| 03:00  | [Techniques for Prototyping Game AI](https://github.com/sendwithus/startupslam/blob/master/workshops/tinymob/README.md) | Customer Experience as a Secret Weapon |
 
                                    04:30  Prize Draws! (ECS 123)
-
+links go to the repositories for each session
 
 Prizes
 ------
