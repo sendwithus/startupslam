@@ -50,7 +50,7 @@ Schedule
 
 
 | Time   |  ECS 125                           | ECS 116                  |
-| ------ |:----------------------------------:|:------------------------:|
+| ------ |:-----------------------------------|:-------------------------|
 | 11:00  | [Wake Me Up, Before You Golang?](https://github.com/sendwithus/workshop-go)     | Customer Acquisition 101 |
 | 12:30  | Lunch                              | Lunch                    |
 | 01:00  | [Zero to Slack in 30 Minutes](https://github.com/sendwithus/startupslam/blob/master/workshops/metalab/README.md)        | [Git: Workflows, Teams, and Integrations](https://github.com/sendwithus/startupslam/blob/master/workshops/pretio/README.md)       |
