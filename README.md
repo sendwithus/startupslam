@@ -28,64 +28,51 @@ Who
 
 Stuff You'll Need
 -----------------
-Coffee Mug! - In an effort to reduce the environmental impact of the slam, we're enforcing a Bring Your Own Mug policy for coffee. 
+**Coffee Mug!** In an effort to reduce the environmental impact of the slam, we're enforcing a Bring Your Own Mug policy for coffee. 
+
+A **GitHub account** will be necessary for most of the coding workshops, and you're most of the way there. If there's a big green "Sign up" button at the top of this page, just click on it to get going; if there isn't, then you're good.
 
 
 
 
 Code Review Corner
 ------------------
+Got a great idea from a session, but hit a bit of a roadblock? The Code Review Corner is here to help! 
 
+Located in **ECS 124** (no, it's not actually a corner) and open right after orientation finishes.
+
+The code review corner is brought to you by [Ladies Learning Code!](http://ladieslearningcode.com/)
 
 
 Schedule
 --------
-10:30 - Orientation (You Are Here)
-
-11:00 - Session One sendwithus, OneNet Marketing
-
-12:30 - Lunch Break one sandwich each. chill.
-
-01:00 - Session Two MetaLab, Pretio Interactive
-
-02:30 - Break
-
-03:00 - Session Three TinyMob Games, Flytographer
-
-04:30 - Prize Draws!
 
 
-Locations
----------
-ECS123 - Orientation
-
-ECS125 - 
-
-ECS116 - 
+                                   10:30 - Orientation (ECS 123)
 
 
-Workshops
---------
+| Time   |  ECS 125                           | ECS 116                  |
+| ------ |:----------------------------------:|:------------------------:|
+| 11:00  | Wake Me Up, Before You Golang?     | Customer Acquisition 101 |
+| 12:30  | Lunch                              | Lunch                    |
+| 01:00  | Zero to Slack in 30 Minutes        | Pretio Interactive       |
+| 02:30  | Break                              | Break                    |
+| 03:00  | Techniques for Prototyping Game AI | Customer Experience as a Secret Weapon |
 
-### 10:30
-
-[Sendwithus](https://github.com/sendwithus/workshop-go)
-
-OneNet Marketing
-
-### 01:00
-
-[MetaLab](https://github.com/sendwithus/startupslam/blob/master/workshops/metalab/README.md)
-
-[Pretio Interactive](https://github.com/sendwithus/startupslam/blob/master/workshops/pretio/README.md)
-
-### 03:00
-
-Flytographer
-
-[TinyMob](https://github.com/sendwithus/startupslam/blob/master/workshops/tinymob/README.md)
+                                   04:30  Prize Draws! (ECS 123)
 
 
 Prizes
 ------
 
+We've got prizes, we've got swag packs, we've got all sorts of cool stuff being given out in every session and a big drawing at the end of the day for our grand prizes:
+
+* An AppleTV
+* An XBOX One
+
+The drawing will be in **ECS 123** (the same room as orientation) at **4:30**.
+
+HELP!
+-----
+
+If you need anything at any time, you can use the hashtag **#startupslam**, hit up the livechat on [startupslam.io](http://startupslam.io), flag down anyone with a bright orange lanyard, or swing by the registration desk in the lobby.
