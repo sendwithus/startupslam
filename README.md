@@ -67,17 +67,23 @@ ECS116 -
 Workshops
 --------
 
-10:30 - [Sendwithus](https://github.com/sendwithus/startupslam/blob/master/workshops/sendwithus/README.md)
+## 10:30
 
-        [OneNet Marketing](https://github.com/sendwithus/startupslam/blob/master/workshops/onenet/README.md)
+[Sendwithus](https://github.com/sendwithus/startupslam/blob/master/workshops/sendwithus/README.md)
 
-01:00 - [MetaLab](https://github.com/sendwithus/startupslam/blob/master/workshops/metalab/README.md)
+[OneNet Marketing](https://github.com/sendwithus/startupslam/blob/master/workshops/onenet/README.md)
 
-        [Pretio Interactive](https://github.com/sendwithus/startupslam/blob/master/workshops/pretio/README.md)
+## 01:00
 
-03:00 - [Flytographer](https://github.com/sendwithus/startupslam/blob/master/workshops/flytographer/README.md)
+[MetaLab](https://github.com/sendwithus/startupslam/blob/master/workshops/metalab/README.md)
 
-        [TinyMob](https://github.com/sendwithus/startupslam/blob/master/workshops/tinymob/README.md)
+[Pretio Interactive](https://github.com/sendwithus/startupslam/blob/master/workshops/pretio/README.md)
+
+## 03:00
+
+[Flytographer](https://github.com/sendwithus/startupslam/blob/master/workshops/flytographer/README.md)
+
+[TinyMob](https://github.com/sendwithus/startupslam/blob/master/workshops/tinymob/README.md)
 
 
 Prizes
