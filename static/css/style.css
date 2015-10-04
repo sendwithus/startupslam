@@ -88,6 +88,7 @@ video {
     margin-top: 30px;
     font-weight: light;
     letter-spacing: 2px;
+    color: white;
     margin-left: 12px;
     -webkit-animation-delay: 2.25s;
     animation-delay: 2.25s;
@@ -95,13 +96,10 @@ video {
 }
 
 .btn-register:hover{
-    padding: 20px 70px;
-    color: #520901;
-    font-weight: 800;
-}
-
-a button.btn-register{
-    color: #FFFFFF;
+    /*padding: 20px 70px;*/
+    color: inherit;
+    text-decoration: none;
+    /*font-weight: 800;*/
 }
 
 .row.sub{
