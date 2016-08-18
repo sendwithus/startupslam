@@ -1,13 +1,13 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,800,800italic);
+@import 'https://fonts.googleapis.com/css?family=Raleway:400,400i,700,900';
 
 body{
-    font-family: 'open sans', arial, helvetica, sans-serif;
-    background: #1B1B1B;
-
+    font-family: 'Raleway', arial, helvetica, sans-serif;
+    background: url('../img/bg-body.jpg') fixed top no-repeat;
+    background-size: cover;
     margin: 0;
     padding: 0;
     width: 100%;
-    color: white;
+    color: #231f20;
 }
 
 a{
@@ -20,7 +20,7 @@ a{
     float: none;
     margin: 0 auto;
     padding: 0;
-    background: #262626;
+
 }
 
 .content{
@@ -30,13 +30,17 @@ a{
     padding: 0 10px;
 }
 
+.col-lg-12.banner .content{
+  text-align:center;
+}
+
 .banner{
     width: 100%;
     height: 750px;
     margin: 0 0 40px 0;
     padding: 0 20px;
     overflow: hidden;
-    background: url('../img/bg-header.jpg') center fixed;
+    background: none;
 }
 
 video {
@@ -53,11 +57,12 @@ video {
 }
 
 .logo{
-    float: left;
-    margin-top: 250px;
+    float: none;
+    margin: 150px auto 0 auto;
     max-width: 100%;
     -webkit-animation-delay: 0.5s;
     animation-delay: 0.5s;
+    max-width:600px;
 }
 
 .row{
@@ -65,42 +70,43 @@ video {
 }
 
 .date{
-    float: left;
-    border: 1px solid white;
-    padding: 20px 30px;
+    float: none;
+    background: black;
+    color: #ccafb1;
+    padding: 10px 20px;
     font-size: 18px;
-    margin-top: 30px;
-    font-weight: 100;
+    margin: 30px auto 0 auto;
+    font-weight: 900;
     letter-spacing: 2px;
-    margin-left: 12px;
-    max-width: 90%;
+    width: 300px;
     -webkit-animation-delay: 2s;
     animation-delay: 2s;
 }
 
 .btn-register{
-    float: left;
-    background: #ba1010;
+    background: #DC2D2D;
     border: none;
     padding: 20px 50px;
     text-transform: uppercase;
-    font-size: 18px;
-    margin-top: 30px;
-    font-weight: light;
+    font-size: 24px;
+    margin-top: 0 auto;
+    font-weight: 900;
     letter-spacing: 2px;
     color: white;
-    margin-left: 12px;
     -webkit-animation-delay: 2.25s;
     animation-delay: 2.25s;
     transition: all 0.25s ease-in-out;
 }
 
-.btn-register:hover{
-    /*padding: 20px 70px;*/
-    color: inherit;
+.btn-register:hover, .btn-register:active, .btn-register:focus{
+    color: white;
+    background: #6f0a0a;
     text-decoration: none;
-    /*font-weight: 800;*/
 }
+
+
+
+
 
 .row.sub{
     font-size: 10px;
@@ -122,17 +128,29 @@ video {
 }
 
 h3{
-    border: 1px solid #DC2D2D;
-    color: #DC2D2D;
+  border: 8px solid #DC2D2D;
+  color: #231f20;
     padding: 20px 30px;
-    font-size: 24px;
-    font-weight: 400;
+    font-size: 32px;
+    font-weight: 900;
     letter-spacing: 2px;
     margin-left: 12px;
     text-align: center;
     margin-top: 8px;
     max-width: 90%;
     clear: both;
+}
+
+h3:before {
+  position: absolute;
+  z-index: -1;
+  content: "";
+  width: 100%;
+  height: 7px;
+  background: rgba(0, 0, 0, 0.7);
+  bottom: -11px;
+  right:-8px;
+  transform: skewY(-2deg);
 }
 
 h3.gold{
@@ -271,28 +289,31 @@ h6{
 }
 
 footer{
-	background: #1B1B1B;
-	width: 100%;
-	padding: 10px;
-	clear: both;
-    text-align: center;
-    color: #444;
-    float: left;
+  background: #b73c3c;
+  width: 100%;
+  padding: 10px;
+  clear: both;
+  text-align: center;
+  color: #710809;
+  float: left;
 }
 
 footer a{
-    color: #444;
+    color: #710809;
+    font-weight: bold;
 }
 
 footer a:hover{
-    color: #666;
+    color: #000;
+    cursor: pointer;
 }
 
 
 
 @media(max-width:767px){
 	.logo{
-        margin-top: 150px;
+        margin-top: 100px;
+        max-width: 100%;
     }
 
     .date{
@@ -305,7 +326,7 @@ footer a:hover{
         width: 90%;
     }
     .banner{
-        height: 600px;
+        height: auto;
     }
 
     .row.block{
@@ -317,14 +338,21 @@ footer a:hover{
     }
 
     P{
-        font-size: 14px;
+        font-size: 16px;
     }
 
     h3{
-        width: auto;
-        float: left;
+        width: 300px;
+        float: none;
         display: block;
-        font-size: 18px;
+        font-size: 24px;
+        margin: 0 auto 20px auto;
+    }
+
+    h3:before {
+      bottom: -12px;
+      right:-8px;
+      transform: skewY(-1deg);
     }
 
     video{
