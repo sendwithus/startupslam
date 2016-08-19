@@ -1,6 +1,8 @@
 Welcome to Startup Slam
 =======================
-[startupslam.io](http://www.startupslam.io)
+
+
+For everything you need, visit [www.startupslam.io](http://www.startupslam.io).
 
 
 
@@ -16,7 +18,7 @@ The skills you learn in school are useful, but figuring out when and how to appl
 
 Stuff You'll Need
 -----------------
-**Coffee Mug!** In an effort to reduce the environmental impact of the slam, we're enforcing a Bring Your Own Mug policy for coffee. 
+**Coffee Mug!** In an effort to reduce the environmental impact of the slam, we're enforcing a Bring Your Own Mug policy for coffee.
 
 A **GitHub account** will be necessary for most of the coding workshops, and you're most of the way there. If there's a big green "Sign up" button at the top of this page, just click on it to get going; if there isn't, then you're good.
 
@@ -35,7 +37,7 @@ Sponsors!
 
 Code Review Corner
 ------------------
-Got a great idea from a session, but hit a bit of a roadblock? The Code Review Corner is here to help! 
+Got a great idea from a session, but hit a bit of a roadblock? The Code Review Corner is here to help!
 
 Located in **ECS 124** (no, it's not actually a corner) and open right after orientation finishes.
 
