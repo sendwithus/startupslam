@@ -71,11 +71,10 @@ video {
 
 .date{
     float: none;
-    background: black;
-    color: #ccafb1;
+    color: black;
     padding: 10px 20px;
     font-size: 18px;
-    margin: 30px auto 0 auto;
+    margin: 30px auto;
     font-weight: 900;
     letter-spacing: 2px;
     width: 300px;
@@ -323,7 +322,9 @@ footer a:hover{
 
     .btn-register{
         margin-top: 10px;
-        width: 90%;
+        padding: 15px 30px;
+        float:left;
+        width: 100%;
     }
     .banner{
         height: auto;
