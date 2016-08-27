@@ -193,7 +193,7 @@ p .pull{
 .logo-large, .logo-small{
     opacity: 0.5;
     transition: all 0.5s;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.3);
     width: 90%;
     margin-bottom: 30px;
     padding: 10%;
@@ -260,7 +260,37 @@ h4{
 }
 
 h5{
-    font-size: 24px;
+    font-size: 18px;
+    color: black;
+    background: black;
+    padding: 10px 15px;
+    font-weight: 600;
+    letter-spacing:2px;
+    float:left;
+}
+
+h5.poweredby{
+  color: #85ff85;
+  background: none;
+  border: 3px solid #85ff85;
+}
+
+h5.unicorn{
+  color: #ffc2f9;
+  background: none;
+  border: 3px solid #ffc2f9;
+}
+
+h5.gold{
+  color: #f6ff8c;
+  background: none;
+  border: 3px solid #f6ff8c;
+}
+
+h5.silver{
+  color: #d8d8d8;
+  background: none;
+  border: 3px solid #d8d8d8;
 }
 
 h6{
