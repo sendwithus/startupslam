@@ -10,5 +10,5 @@
 
 ### Get Started
 
-* Clone [this](https://github.com/sendwithus/startupslam.git) repo
+* Clone **[THIS](https://github.com/sendwithus/startupslam.git)** repo
 * Open up this presentations directory
