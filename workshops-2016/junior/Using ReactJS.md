@@ -10,5 +10,5 @@ Using React JS for the First Time - Checkfront
 
 ### Get Started
 
-* Clone [this](https://github.com/Checkfront/startup)
+* Clone [this](https://github.com/Checkfront/startupslam2016)
 * Open a terminal, `> npm install && npm run start`
