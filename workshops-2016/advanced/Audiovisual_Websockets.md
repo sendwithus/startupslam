@@ -8,4 +8,4 @@
   * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * Get a text editor
   * Try [Sublime](https://www.sublimetext.com/) or [Atom](https://atom.io/)
-* Download the materials - **Coming Soon**
+* Download the materials - **[HERE](http://workday.startupslam.io/workshop.zip)**
