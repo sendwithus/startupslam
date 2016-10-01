@@ -15,15 +15,17 @@
 
 ### Task
 
-Your task is to implement a "calculator" class, writing tests for all of the methods you need to impelement. This is not a "fill in the blanks" exersize and you're encouraged to be inventive and thoughtful with the tests you are writing.
+Your task is to implement a "calculator" class, writing tests for all of the methods you need to implement. This is not a "fill in the blanks" exercise and you're encouraged to be inventive and thoughtful with the tests you are writing.
 
 ### Optional Difficulties
 
-If you are a new programmer you will want to choose the "calculator" class, which you will find in [calculator.py](calculator.py). When you can execute the [runner.py](runner.py) script and have it show a successful message you wlil know you're done.
+If you are a new programmer you will want to choose the "calculator" class, which you will find in [calculator.py](calculator.py).
 
 You can implement your tests in [test_runner.py](test_runner.py) using the simple assert_equal method provided.
 
-For a more difficult and open-ended challenge, you can implement [hard_calculator.py](hard_calculator.py) and run [hard_runner.py](hard_runner.py), though its a more open-ended excerise and you're encouraged to go as far as you can while writing good tests.
+When you are finished implementing all the methods in the Calculator class, you can execute [finished_runner.py](finished_runner.py). It will either print out a success or failure message to let you know if your calculator works.
+
+For a more difficult and open-ended challenge, you can implement [hard_calculator.py](hard_calculator.py) and run [finished_hard_runner.py](finished_hard_runner.py), though its a more open-ended exercise and you're encouraged to go as far as you can while writing good tests.
 
 ### Don't like python?
 
